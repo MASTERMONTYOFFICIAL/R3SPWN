@@ -1,6 +1,6 @@
 # 💀 R3SPWN : Critical Vulnerability Auditor
 🎯 Overview
-R3SPWN (TResponse pwned) is a fast, multi-threaded command-line utility designed for auditing web applications for two critical security flaws: Host Header Injection and CORS Misconfiguration.
+R3SPWN (Response pwned) is a fast, multi-threaded command-line utility designed for auditing web applications for two critical security flaws: Host Header Injection and CORS Misconfiguration.
 
 Unlike other tools that rely on separate modes, TRUSTR3S uses a single comprehensive wordlist of header names (Host, X-Forwarded-Host, Origin, etc.) to efficiently check all targets. It injects a payload into each header and scans the response body for reflection, indicating a potential vulnerability.
 
