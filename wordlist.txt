@@ -1,0 +1,5 @@
+Host
+X-Forwarded-Host
+X-Forwarded-For
+X-Forwarded
+Referer
